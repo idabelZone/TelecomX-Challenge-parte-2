@@ -2,7 +2,7 @@
 
 # 📡 Predicción de Cancelación de Clientes (Customer Churn) - Telecom X parte 2
 
-![Google Colab](https://colab.research.google.com/drive/1Hu8saZBzikw_HFKm_PSZmJpFqJjQ1sYE?usp=sharing).
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Hu8saZBzikw_HFKm_PSZmJpFqJjQ1sYE?usp=sharing)
 
 ## 📝 Descripción del Proyecto
 
@@ -72,7 +72,7 @@ A diferencia de Random Forest, la Regresión Logística demostró una mayor capa
 
 ## 🚀 Cómo utilizar este proyecto
 
-1. Accede al notebook directamente en [Google Colab](https://colab.research.google.com/drive/1Hu8saZBzikw_HFKm_PSZmJpFqJjQ1sYE?usp=sharing).
+1. Accede al notebook directamente en [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Hu8saZBzikw_HFKm_PSZmJpFqJjQ1sYE?usp=sharing)
 2. Asegúrate de tener instaladas las dependencias: `pip install pandas scikit-learn imbalanced-learn seaborn`.
 3. Ejecuta las celdas en orden para reproducir el pipeline de entrenamiento.
 
