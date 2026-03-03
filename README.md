@@ -2,7 +2,7 @@
 
 # 📡 Predicción de Cancelación de Clientes (Customer Churn) - Telecom X parte 2
 
-[Google Colab](https://colab.research.google.com/drive/1Hu8saZBzikw_HFKm_PSZmJpFqJjQ1sYE?usp=sharing).
+![Google Colab](https://colab.research.google.com/drive/1Hu8saZBzikw_HFKm_PSZmJpFqJjQ1sYE?usp=sharing).
 
 ## 📝 Descripción del Proyecto
 
